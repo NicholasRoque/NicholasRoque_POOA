@@ -27,9 +27,9 @@
     <li>:white_check_mark: Edição de um cadastro.</li>
     <li>:white_check_mark: Remoção de um cadastro.</li>
     <li>:white_check_mark: Listagem de todos os clientes em ordem alfabética.</li>
-    <li>:green_check_mark: Listagem de somente os clientes de um determinado gênero em ordem alfabética.</li>
-    <li>:green_check_mark: Para cada cliente a lista dos serviços e/ou produtos que este consumiu.</li>
-    <li>:green_check_mark: Relatórios básicos com as seguintes informações:
+    <li>:white_check_mark: Listagem de somente os clientes de um determinado gênero em ordem alfabética.</li>
+    <li>:white_check_mark: Para cada cliente a lista dos serviços e/ou produtos que este consumiu.</li>
+    <li>:white_check_mark: Relatórios básicos com as seguintes informações:
       <ul>
         <li>Qual é a idade média de todo o público de uma unidade.</li>
         <li>Qual é a idade média do público para um determinado gênero.</li>
@@ -37,7 +37,7 @@
         <li>Qual é o seriço mais procurado para um determinado gênero.</li>
       </ul>
     </li>
-    <li>:green_check_mark: Capacidade de persistência de dados. A agenda deverá ser salva em um arquivoem disco rígido, como acontece com a maíoria dos softwares existentes em mercado.</li>
+    <li>:white_check_mark: Capacidade de persistência de dados. A agenda deverá ser salva em um arquivoem disco rígido, como acontece com a maíoria dos softwares existentes em mercado.</li>
   </ul>
 </p>
 
