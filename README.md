@@ -16,7 +16,7 @@
 
 <p align="justify">
   <ul>
-    <li>:green_check_mark: Cadastro de clientes com as seguintes informações:
+    <li>:white_check_mark: Cadastro de clientes com as seguintes informações:
       <ul>
         <li>Nome</li>
         <li>Telefone</li>
@@ -24,9 +24,9 @@
         <li>Gênero.</li>
       </ul>
     </li>
-    <li>:green_check_mark: Edição de um cadastro.</li>
-    <li>:green_check_mark: Remoção de um cadastro.</li>
-    <li>:green_check_mark: Listagem de todos os clientes em ordem alfabética.</li>
+    <li>:white_check_mark: Edição de um cadastro.</li>
+    <li>:white_check_mark: Remoção de um cadastro.</li>
+    <li>:white_check_mark: Listagem de todos os clientes em ordem alfabética.</li>
     <li>:green_check_mark: Listagem de somente os clientes de um determinado gênero em ordem alfabética.</li>
     <li>:green_check_mark: Para cada cliente a lista dos serviços e/ou produtos que este consumiu.</li>
     <li>:green_check_mark: Relatórios básicos com as seguintes informações:
