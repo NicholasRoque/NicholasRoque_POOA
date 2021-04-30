@@ -44,6 +44,6 @@
 ## Professor responsável: 
 * [Gerson Penha](https://github.com/gerson-pn)
 
-## :boy: Desenvolvido por:
+## Desenvolvido por:
 * [Nicholas Roque](https://github.com/NicholasRoque)
 </html>
